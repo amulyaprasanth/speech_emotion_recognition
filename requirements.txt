@@ -6,5 +6,7 @@ notebook
 librosa
 flask
 gunicorn
+tensorflow
+keras
 IPython
 -e .
